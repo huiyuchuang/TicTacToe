@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  Homework1
 //
 //  Created by Hui Yu Chuang on 1/9/18.
 //  Copyright © 2018 Hui Yu Chuang. All rights reserved.

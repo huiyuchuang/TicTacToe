@@ -1,6 +1,5 @@
 //
 //  Player_Class.cpp
-//  Homework1
 //
 //  Created by Hui Yu Chuang on 1/10/18.
 //  Copyright © 2018 Hui Yu Chuang. All rights reserved.
